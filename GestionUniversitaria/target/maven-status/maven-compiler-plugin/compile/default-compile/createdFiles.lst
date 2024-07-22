@@ -1,0 +1,16 @@
+controladores\ControladorLaboratorio$Reserva.class
+controladores\ControladorLaboratorio.class
+modelo\Estudiante.class
+modelo\Jornada.class
+vistas\VentanaLaboratorio.class
+modelo\Administrador.class
+modelo\Docente.class
+modelo\Horario.class
+modelo\Persona.class
+modelo\Reserva.class
+modelo\Curso.class
+modelo\Usuario.class
+modelo\Casilla.class
+com\mycompany\gestionuniversitaria\GestionUniversitaria.class
+modelo\Laboratorio.class
+modelo\Notificacion.class
